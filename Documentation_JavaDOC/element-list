@@ -1,0 +1,14 @@
+br.ufrn.imd.acervoliterario
+br.ufrn.imd.acervoliterario.config
+br.ufrn.imd.acervoliterario.controller
+br.ufrn.imd.acervoliterario.dto
+br.ufrn.imd.acervoliterario.filter
+br.ufrn.imd.acervoliterario.mapper
+br.ufrn.imd.acervoliterario.model
+br.ufrn.imd.acervoliterario.model.builder
+br.ufrn.imd.acervoliterario.repository
+br.ufrn.imd.acervoliterario.service
+br.ufrn.imd.acervoliterario.utils
+br.ufrn.imd.acervoliterario.utils.exception
+br.ufrn.imd.acervoliterario.utils.handler
+br.ufrn.imd.acervoliterario.utils.validators
