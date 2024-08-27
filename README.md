@@ -1,6 +1,6 @@
 # Acervo literário
 
-Esse programa foi desenvolvido em parceria com (Beatriz Santana)[https://github.com/bsmoura22] e (Nicole Nogueira)[https://github.com/nicolecnogueira], usando a linguagem Java, com objetivo de implementar um Acervo Literário no qual é possível: fazer o cadastro de usuários e acessar documentos acadêmicos disponíveis na plataforma. 
+Esse programa foi desenvolvido em parceria com [Beatriz Santana](https://github.com/bsmoura22) e [Nicole Nogueira](https://github.com/nicolecnogueira), usando a linguagem Java, com objetivo de implementar um Acervo Literário no qual é possível: fazer o cadastro de usuários e acessar documentos acadêmicos disponíveis na plataforma. 
 
 ## Índice
 
@@ -240,6 +240,6 @@ http://localhost:8080/api/auth-server/v1/finalProject/find-all
 
 ## Desenvolvedores
 
-- (Beatriz Santana de Moura)[https://github.com/bsmoura22]
-- (Gabriel Ribeiro Barbosa da Silva)[https://github.com/gabriel-ribeiro-099]
-- (Nicole Carvalho Nogueira)[https://github.com/nicolecnogueira]
+- [Beatriz Santana de Moura](https://github.com/bsmoura22)
+- [Gabriel Ribeiro Barbosa da Silva](https://github.com/gabriel-ribeiro-099)
+- [Nicole Carvalho Nogueira](https://github.com/nicolecnogueira)
