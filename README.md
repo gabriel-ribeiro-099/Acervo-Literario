@@ -1,6 +1,6 @@
 # Acervo literário
 
-Esse programa foi desenvolvido em Java, com objetivo de implementar um Acervo Literário no qual é possível: fazer o cadastro de usuários e acessar documentos acadêmicos disponíveis na plataforma.
+Esse programa foi desenvolvido em parceria com (Beatriz Santana)[https://github.com/bsmoura22] e (Nicole Nogueira)[https://github.com/nicolecnogueira], usando a linguagem Java, com objetivo de implementar um Acervo Literário no qual é possível: fazer o cadastro de usuários e acessar documentos acadêmicos disponíveis na plataforma. 
 
 ## Índice
 
@@ -16,10 +16,6 @@ Esse programa foi desenvolvido em Java, com objetivo de implementar um Acervo Li
 
 O projeto foi desenvolvido com o intuito de disponibilizar um acervo literário para o âmbito acadêmico, que contará com documentos como TCCs, artigos científicos e livros acadêmicos.
 Para isso, usuário pode se cadastrar fornecendo os atributos "Nome", "E-mail", "Login" e "Senha", com um ID gerado automaticamente para cada usuário, garantindo a singularidade no sistema. Com a crescente demanda por acesso fácil e organizado a material acadêmico, o Acervo Literário se apresenta como uma solução ideal para estudantes, pesquisadores e educadores que necessitam de documentos específicos para suas atividades acadêmicas, atendendo a um público-alvo interessado em uma coleção organizada de materiais acadêmicos.
-
-## Link para o vídeo de apresentação
-
-https://youtu.be/Ajp_8JBOh28?si=r_laVdEBOpvmNgDn
 
 ## Instalação
 
@@ -244,6 +240,6 @@ http://localhost:8080/api/auth-server/v1/finalProject/find-all
 
 ## Desenvolvedores
 
-- Beatriz Santana de Moura
-- Gabriel Ribeiro Barbosa da Silva
-- Nicole Carvalho Nogueira
+- (Beatriz Santana de Moura)[https://github.com/bsmoura22]
+- (Gabriel Ribeiro Barbosa da Silva)[https://github.com/gabriel-ribeiro-099]
+- (Nicole Carvalho Nogueira)[https://github.com/nicolecnogueira]
